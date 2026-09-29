@@ -55,4 +55,4 @@ documents/
 *.fish
 *.tex
 Plantilla.md
-Proyecto_software/
+Proyecto_software/*.xlsx
